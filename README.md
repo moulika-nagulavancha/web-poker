@@ -1,5 +1,5 @@
 # web-poker
-Description: In this assignment, Iam going to develop a poker game using JavaScript and
+Description: In this project, Iam going to develop a poker game using JavaScript and
 jQuery animation. As for the game, user will place a bet on every hand. First, two cards will be shown to the user,
 user can raise the bet (the bet must be between 1 and 10); after user place the bet, the
 remaining three cards will be shown to the user and the score will be updated.
